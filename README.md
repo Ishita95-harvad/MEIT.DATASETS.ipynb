@@ -9,24 +9,41 @@ This project focuses on **MEIT (Ministry of Electronics and Information Technolo
 
 📂 MEIT-Datasets
 
-│── 📄 README.md        
-# Project documentation
-│── 📂 data/                  
-# Raw & processed datasets related to MEIT research
-│── 📂 notebooks/             
-# Jupyter Notebook for analysis (MEIT.DATASETS.ipynb) 
-│── 📂 reports/              
-# Findings & insights from the dataset
-│── 📂 models/                
-# Predictive modeling for key indicators 
+│── 📄 README.md   
+
+ **Project documentation**
+ 
+│── 📂 data/           
+
+ **Raw & processed datasets related to MEIT research**
+ 
+│── 📂 notebooks/ 
+
+ **Jupyter Notebook for analysis (MEIT.DATASETS.ipynb)**
+ 
+│── 📂 reports/  
+
+ **Findings & insights from the dataset**
+ 
+│── 📂 models/        
+
+ **Predictive modeling for key indicators**
+ 
 │── 📂 results/               
-# Visualizations & data-driven conclusions 
+
+ **Visualizations & data-driven conclusions**
+ 
 │── 📂 config/                
-# Configuration files & metadata 
-│── 📄 requirements.txt        
-# Dependencies for analysis tools 
-│── 📄 LICENSE                 
-# Legal information about usage
+
+ **Configuration files & metadata** 
+ 
+│── 📄 requirements.txt     
+
+ **Dependencies for analysis tools**
+ 
+│── 📄 LICENSE    
+
+**Legal information about usage**
 
 ## 🔍 Dataset Description
 The dataset includes structured information on:
